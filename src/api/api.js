@@ -1,5 +1,5 @@
 import axios from "axios"
-export const HOST = 'http://localhost:3000';
+export const HOST = 'https://url-shortner-backend-11.herokuapp.com';
 
 
 export const createShortUrl = async (data) =>{
