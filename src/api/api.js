@@ -1,5 +1,7 @@
 import axios from "axios"
-export const HOST = 'https://url-shortner-backend-11.herokuapp.com';
+// export const HOST = 'https://url-shortner-backend-11.herokuapp.com';
+
+export const HOST = 'https://url-shortner-backend-1.netlify.app';
 
 
 export const createShortUrl = async (data) =>{
